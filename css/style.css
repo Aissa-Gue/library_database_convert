@@ -1,0 +1,48 @@
+* {
+  direction: rtl;
+}
+#h3 {
+  font-family: "Amiri", serif;
+  color: brown;
+}
+* + [class*="uk-align"] {
+  margin-top: 0px;
+}
+.uk-card-body {
+  padding: 29px 30px;
+}
+
+.head_cover {
+  border-bottom: darkcyan 4px double;
+}
+.home_link:hover {
+  text-decoration: none;
+}
+.body_cover {
+  min-height: 77vh;
+}
+.uk-h3 {
+  font-family: "Reem Kufi", sans-serif;
+  font-size: 36px;
+  color: brown;
+}
+.uk-card-default {
+  background: rgba(240, 248, 250, 0.8);
+}
+.first_form .inp {
+  padding-top: 6px;
+}
+.inp {
+  background: rgba(253, 255, 255, 0.7);
+}
+.uk-alert-success {
+  background: rgba(88, 230, 170, 0.3);
+  color: green;
+}
+.info_btn {
+  color: black;
+  background-color: springgreen;
+}
+.exp {
+  border-radius: 20px;
+}
